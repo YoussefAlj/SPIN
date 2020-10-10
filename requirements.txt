@@ -12,3 +12,4 @@ torchgeometry
 torchvision==0.3.0
 tqdm
 trimesh
+Pillow
