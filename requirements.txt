@@ -9,6 +9,6 @@ smplx
 spacepy
 torch==1.1.0
 torchgeometry
-torchvision
+torchvision==0.3.0
 tqdm
 trimesh
