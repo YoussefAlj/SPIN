@@ -1,7 +1,7 @@
 neural-renderer-pytorch
 numpy
 opencv-python
-pyopengl
+pyopengl==3.1.0
 pyrender
 scikit-image
 scipy
