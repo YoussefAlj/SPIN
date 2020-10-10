@@ -1,3 +1,4 @@
+imgaug==0.2.5
 neural-renderer-pytorch
 numpy
 opencv-python
