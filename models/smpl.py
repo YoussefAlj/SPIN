@@ -2,7 +2,8 @@ import torch
 import numpy as np
 import smplx
 from smplx import SMPL as _SMPL
-from smplx.body_models import ModelOutput
+#from smplx.body_models import ModelOutput
+from smplx.body_models import SMPLXOutput
 from smplx.lbs import vertices2joints
 
 import config
